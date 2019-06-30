@@ -10,7 +10,7 @@ sampleSizeForEachGroup <- 50
 numHypotheses <- 31 #number of measured markers
 numSimulations <- 1000
 fractionTruePositives <- 0.25 #assuming 25% of the markers can be significant 
-effectSize <- 0.75 #modeling slightly above moderate effect size
+effectSize <- 0.75 #modeling approx. moderate effect size
 
 pValues <- vector()
 truePositives <- vector()
